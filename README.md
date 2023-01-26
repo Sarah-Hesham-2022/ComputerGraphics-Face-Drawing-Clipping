@@ -5,7 +5,7 @@
 
 -Algorithms Implemented: 
 
- Clipping
+ Boundary Clipping Detection
  
  Curve Drawing
  
