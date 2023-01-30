@@ -1,4 +1,4 @@
-# Face-Drawing-C-
+# ComputerGraphics-Face-Drawing-Clipping
 -Face Drawing using C++ based on Computers Graphics Theories using Win32 Desktop Applications.
 
 -The idea is using mathematics and problem solving concepts with C++ to make computer graphics from scratch.
